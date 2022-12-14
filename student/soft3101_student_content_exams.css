@@ -1,0 +1,14 @@
+.add_lessonButton{
+    text-align: center;
+}
+.button{
+    width: 150px;
+    height: 40px;
+    margin-top: 20px;
+}
+.lessonPart{
+    width: 940px;
+    border: 1px solid grey;
+    padding: 10px;
+    margin-top: 20px;
+}

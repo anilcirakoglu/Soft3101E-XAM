@@ -1,0 +1,20 @@
+#settingsForm{
+    display:grid;
+    margin: auto;
+}
+.settingsiki{
+    width: 940px;
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 20px;
+}
+#textbox{
+    width: 500px;
+    margin: auto;
+}
+#saveChange_button{
+    width: 500px;
+    margin: auto;
+    margin-top: 10px;
+    
+}
