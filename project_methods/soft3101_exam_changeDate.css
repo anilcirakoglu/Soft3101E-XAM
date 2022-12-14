@@ -1,0 +1,9 @@
+.changeDate_table{
+    width: 200px;
+    padding: 20px;
+    border: 1px solid black;
+}
+#saveChange_button{
+    margin-top: 10px;
+    display: block;
+}

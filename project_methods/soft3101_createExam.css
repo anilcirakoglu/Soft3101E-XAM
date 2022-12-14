@@ -1,0 +1,23 @@
+.createExam{
+    width: 1500px;
+    border: 1px solid black;
+    margin: auto;
+}
+#create_examForm{
+    padding: 10px;
+    display: grid;
+}
+#textbox{
+    width: 300px;
+    margin-bottom: 10px;
+}
+#exam_type_area{
+    height: 600px;
+}
+#post_button{
+    float: right;
+    margin-top: 10px;
+    width: 80px;
+    height: 30px;
+    margin-right: 30px;
+}

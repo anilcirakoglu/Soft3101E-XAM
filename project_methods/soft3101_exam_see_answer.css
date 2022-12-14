@@ -1,0 +1,11 @@
+.question{
+    border:1px solid grey;
+    padding: 10px;
+}
+.answer{
+    border:1px solid grey;
+    padding: 10px;
+}
+.inputline{
+    margin-top:10px;
+}
